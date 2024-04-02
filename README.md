@@ -5,7 +5,7 @@ This project aims to analyze and predict credit card fraud using a comprehensive
 
 ## Data Source
 The dataset for this analysis is the "Credit Card Fraud Prediction" dataset available on Kaggle:
-[Credit Card Fraud Prediction Dataset](https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction/data
+[Credit Card Fraud Prediction Dataset](https://www.kaggle.com/datasets/kelvinkelue/credit-card-fraud-prediction/data)
 
 It encompasses various features related to credit card transactions, including transaction details, merchant information, customer demographics, and a binary indicator of fraud.
 
